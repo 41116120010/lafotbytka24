@@ -22,7 +22,7 @@ Sekali klik, format **DOCX** atau **ODT** lo langsung jadi, rapi, valid, dan sia
 Gak perlu compile manual, gue udah siapin paket `.deb`-nya. Buka terminal lo (`Ctrl+Alt+T`) dan ikuti langkah sat-set ini:
 
 ### 1. Download Installer
-Download file `lafotbytka24_1.0_amd64.deb` dari menu [Releases](#) di kanan repo ini.
+Download file `lafotbytka24_1.0_amd64.deb` dari menu [Releases](https://github.com/41116120010/lafotbytka24/releases) di kanan repo ini.
 
 ### 2. Install via Terminal
 Masuk ke folder download, lalu jalankan perintah ini:
