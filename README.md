@@ -1,4 +1,4 @@
-# Laporan Formatter by TKA24 ⚡
+# Laporan Formatter by TKA24
 
 > **"Capek begadang cuma buat benerin margin 4-3-3-3? Chill, Biar script satu ini yang kerjain."**
 
@@ -18,7 +18,7 @@ Sekali klik, format **DOCX** atau **ODT** lo langsung jadi, rapi, valid, dan sia
 
 ---
 
-## 📦 Cara Install (Debian/Ubuntu/Mint)
+## Cara Install (Debian/Ubuntu/Mint)
 Gak perlu compile manual, gue udah siapin paket `.deb`-nya. Buka terminal lo (`Ctrl+Alt+T`) dan ikuti langkah sat-set ini:
 
 ### 1. Download Installer
